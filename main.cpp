@@ -231,7 +231,7 @@ int main() {
         grfData_FL << footPos_[num_leg][0] << "," << footPos_[num_leg][1] << "," << footPos_[num_leg][2];
         if (i < 100000) {grfData_FL << "\n";}
 
-        std::this_thread::sleep_for(std::chrono::microseconds (500));
+        //std::this_thread::sleep_for(std::chrono::microseconds (500));
 
     }
     server.killServer();
