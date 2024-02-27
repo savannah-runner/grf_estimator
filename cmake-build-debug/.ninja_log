@@ -1,0 +1,4 @@
+# ninja log v5
+0	27	1707992790244634963	build.ninja	d2eabb7e2b0162cc
+2	4879	1706533792208104611	CMakeFiles/grf_estimator.dir/main.cpp.o	325bf55d5fef6b6f
+4879	5041	1706533792372103814	grf_estimator	9c17649e56dc00a4
